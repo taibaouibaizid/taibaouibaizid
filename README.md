@@ -1,11 +1,11 @@
-<p align="center">
+
+  <p align="center">
   <img
-    src="./assets/profile.jpg"
-    width="180"
-    alt="Taibaoui Baizid"
+    src="./assets/github-banner.png"
+    width="100%"
+    alt="Taibaoui Baizid GitHub Profile"
   />
-</p>
-                       
+</p>          
                        👋 Hello, I'm
               TAIBAOUI BAIZID
 
