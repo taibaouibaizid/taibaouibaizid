@@ -1,13 +1,4 @@
-<p align="center">
-  <img
-    src="./assets/profile.jpg"
-    width="180"
-    alt="Taibaoui Baizid"
-  />
-</p>
-                 
-                 
-                 👋 Hello, I'm
+                       👋 Hello, I'm
               TAIBAOUI BAIZID
 
           [ صورة متحركة / Hero ]
