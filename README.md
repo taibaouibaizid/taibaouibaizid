@@ -1,5 +1,5 @@
                  👋 Hello, I'm
-              TAIBAOUI BAYAZID
+              TAIBAOUI BAIZID
 
           [ صورة متحركة / Hero ]
 
