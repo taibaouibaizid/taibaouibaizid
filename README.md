@@ -32,3 +32,10 @@
    ─────────────────────────────
 
               🤝 Connect
+<p align="center">
+  <img
+    src="./assets/profile.jpg"
+    width="180"
+    alt="Taibaoui Baizid"
+  />
+</p>
